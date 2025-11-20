@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Vinícius, tenho 19 anos e sou um estudante em ascensão na área.</p>
+<p align="left">Olá! Me chamo Vinícius, tenho 20 anos e sou um estudante em ascensão na área.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Estudante de Ciências da Computação;<br>- Em busca de crescer em conhecimento;</p>
+<p align="left">- Estudante de Ciências da Computação;<br>- Trabalho com desenvolvimento de chatbot;<br>- Em busca de crescer em conhecimento</p>
 
 ###
 
