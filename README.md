@@ -5,7 +5,7 @@
 I build and test digital customer-service channels — chatbots, APIs and web apps — with a focus on reliable, well-tested user journeys.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Siqueira-0A66C2?style=flat-square)](https://www.linkedin.com/in/vin%C3%ADcius-siqueira-017a5b234/)
-[![Email](https://img.shields.io/badge/Email-vsiqueira945%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vsiqueira945@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vruan9970%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vruan9970@gmail.com)
 
 ---
 
